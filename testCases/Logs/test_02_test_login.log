@@ -1,0 +1,3 @@
+06/28/2025 06:15:30 PM: test_02_test_login: INFO: ********* Starting Test: test_02_test_login ***********
+06/28/2025 06:15:34 PM: test_02_test_login: ERROR: expected title: Dashboard / nopCommerce administration, actual title: nopCommerce demo store. Login
+06/28/2025 06:15:34 PM: test_02_test_login: ERROR: *************** test_02_test_login FAILED *********************
